@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Кабирхон",
+    "email": "fsirodzidinova@gmail.com",
+    "password": "123213",
+    "verificationCode": "223163",
+    "avatar": "/uploads/1732536574371-file-BbWsPVqZPwsRmHJWumUhtl6K (3).jpg",
+    "stories": [
+      {
+        "id": "1732536579522",
+        "url": "/uploads/1732536579514-image (93).png",
+        "type": "photo",
+        "comments": [],
+        "likes": [
+          "1730022194530",
+          "1730022194530",
+          "1730022194530",
+          "1730022194530",
+          "1730022194530"
+        ]
+      },
+      {
+        "id": "1732536585779",
+        "url": "/uploads/1732536585708-video_2024-06-22_10-19-45.mp4",
+        "type": "video",
+        "comments": [],
+        "likes": [
+          "1730022194530"
+        ]
+      }
+    ],
+    "likes": [],
+    "id": "1730022194530"
+  }
+]
