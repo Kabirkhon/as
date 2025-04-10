@@ -1,0 +1,29 @@
+{
+  "name": "server", // Замените на имя вашего проекта
+  "version": "1.0.0",
+  "description": "A Node.js project with Express and PostgreSQL",
+  "main": "server.js", // Основной файл проекта
+  "scripts": {
+    "start": "node server.js", // Замените на имя вашего основного файла, если он отличается
+    "dev": "nodemon server.js", // Для автоматической перезагрузки при изменениях
+    "test": "bun test" // Если вы планируете использовать тесты
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0", // Для работы с переменными окружения
+    "express": "^4.18.2", // Для создания сервера
+    "pg": "^8.7.1", // Для работы с PostgreSQL
+    "cors": "^2.8.5" // Для работы с CORS
+  },
+  "engines": {
+    "node": "22.13.1" // Укажите вашу версию Node.js
+  },
+  "repository": {
+    "url": "https://github.com/Kabirkhon/as" // Замените на URL вашего репозитория, если есть
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "postgresql"
+  ]
+}
